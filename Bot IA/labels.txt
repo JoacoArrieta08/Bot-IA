@@ -1,0 +1,7 @@
+0 Procesador
+1 Tarjeta Grafica
+2 Gabinete
+3 Almacenamiento
+4 Fuente de poder
+5 Placa Madre
+6 Ram
