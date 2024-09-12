@@ -24,4 +24,4 @@ async def check(ctx): # el ctx es para mandar y recibir los msj
         await ctx.send(f"Olvido subir una imagen")
 
 
-bot.run("MTI3OTg5ODE1NTM3MDAyNTA2Mg.GHvrQe.gD0LCOJr89_ZdX-U5Hkc4jHmlRDzJew613pt5M")
+bot.run("token")
